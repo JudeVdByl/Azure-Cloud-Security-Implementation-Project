@@ -68,7 +68,7 @@ To meet business requirements, file backups were configured with:
 - Retention of recovery snapshots for 3 days and daily backups for 45 days.
 
 **Screenshot of Backup Configuration:**
-![Backup Configuration Screenshot]((https://github.com/user-attachments/assets/8b995676-64f8-4da2-9e31-fe10b7facc2b)
+![Backup Configuration Screenshot](https://github.com/user-attachments/assets/8b995676-64f8-4da2-9e31-fe10b7facc2b)
 
 ## Division of Responsibilities
 In the IaaS model:
